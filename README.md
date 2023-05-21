@@ -1,1 +1,1 @@
-# lab2
+# A wordle game made in WinApi
