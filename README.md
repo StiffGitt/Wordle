@@ -1,1 +1,2 @@
-# A wordle game made in WinApi
+# Wordle
+A wordle game made in WinApi
