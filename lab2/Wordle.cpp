@@ -2,7 +2,7 @@
 //
 
 #include "framework.h"
-#include "lab2.h"
+#include "Wordle.h"
 
 #define MAX_LOADSTRING 100
 #define SQSIZE 55

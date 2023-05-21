@@ -24,12 +24,12 @@
     <ClInclude Include="Resource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="lab2.h">
+    <ClInclude Include="Wordle.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="lab2.cpp">
+    <ClCompile Include="Wordle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
